@@ -40,5 +40,5 @@ somaArray()| Realiza a soma de todos os números digitados;
 
 isValidCard()| Método principal que retorna se o número do cartão é valido ou inválido;
 
-![Fluxograma](https://www.draw.io/?state=%7B%22ids%22:%5B%221nQ0G8hOll9GgCo1T66ZSjov9ZO2Exw3F%22%5D,%22action%22:%22open%22,%22userId%22:%22103644699094741663922%22%7D#G1nQ0G8hOll9GgCo1T66ZSjov9ZO2Exw3F)
+![Fluxograma](cartaoValido)
 
