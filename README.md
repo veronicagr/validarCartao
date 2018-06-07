@@ -1,5 +1,5 @@
 # validarCartao
-Algoritmo de Lunh
+#### Algoritmo de Lunh
 
 É conhecida como " 10"ou" modificação 10 " é um um método para validar números de identificação como por exemplo números de cartão de crédito.
 
@@ -11,7 +11,7 @@ Ao final desta operação devemos somar todos os indices e verficar se o resulta
 Se positivo o número do cartão é válido.
 
 
-Funcionalidade do Sistema:
+#### Funcionalidade do Sistema:
 
 O sistema é composto por uma função isValidCard ()
 
@@ -19,18 +19,18 @@ Para verificar se o número do cartão é válido o usuário deverá digitar uma
 E através de uma mensagem de alerta é impresso se o número do cartão é válido.
 
 
-#Desenvolvimento:
+#### Desenvolvimento:
 
 Para o desenvolvimento foi utilizado a linguagem de programação JavaScript.
 O usuário digitará uma sequência de números e através do Algoritmo de Lunh o programa retornará uma mensagem se o cartão é válido ou inválido.
 
-#O programa é composto por 3 arquivos:
+#### O programa é composto por 3 arquivos:
 
 index.html: Página principal onde está presente o html;
 app.JavaScript: pagina com a funções de isValidCard;
 style.css: Em andamento;
 
-#Funções:
+#### Funções:
 
 inverteInput()| Utilizada para inverter os números digitados pelo usuário;
 
