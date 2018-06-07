@@ -40,5 +40,5 @@ somaArray()| Realiza a soma de todos os números digitados;
 
 isValidCard()| Método principal que retorna se o número do cartão é valido ou inválido;
 
-![Fluxograma](cartaoValido)
+![Fluxograma](cartaoValido.jpg)
 
