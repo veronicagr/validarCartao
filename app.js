@@ -27,9 +27,9 @@ function cartaoValido(string) {
   var indicesParesMultiplica = multiplicaIndicesPares(stringReversa);
   var somaTotal = somaArray(indicesParesMultiplica);
   if (somaTotal % 10 === 0) {
-    return "CARTÃO VÁLIDO!";
+    return alert("CARTÃO VÁLIDO!");
   } else {
-    return "CARTÃO INVÁLIDO!";
+    return alert("CARTÃO INVÁLIDO!");
   }
 }
 
